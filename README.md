@@ -65,8 +65,3 @@ Contributions to Natours are welcome! Here's how to contribute:
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-**Acknowledgements**
-
-Special thanks to Jonas Schmedtmann for the invaluable guidance and mentorship throughout the development of this project.
